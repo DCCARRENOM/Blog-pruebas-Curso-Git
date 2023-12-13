@@ -11,3 +11,4 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
 * Creado por Daniel Carreño
+* Incluye ejemplos en Github Pages
