@@ -2,7 +2,5 @@ Esta es una prueba.
 
 Se agrega un parrafo nuevo que nunca ha estado antes.
 
-
-
-Main1.  
-Main2. 
+Experimento 1.
+Main1.
